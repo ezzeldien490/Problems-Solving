@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{686ffa0c-dd95-4387-a9af-fdb02d2847fe}</ProjectGuid>
-    <RootNamespace>NumberGuessingGame</RootNamespace>
+    <ProjectGuid>{a970b14f-330f-416d-b018-1f3b07c5cbbf}</ProjectGuid>
+    <RootNamespace>FindtheNthFibonacciNumber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -130,7 +130,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Number Guessing Game.cpp" />
+    <ClCompile Include="Find the Nth Fibonacci Number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
